@@ -6,6 +6,8 @@
 //
 
 import SwiftUI
+import Firebase
+import UIKit
 
 struct EditPostView: View {
     var image: UIImage
@@ -22,7 +24,27 @@ struct EditPostView: View {
                     .aspectRatio(contentMode: .fit)
                     .frame(width: 200, height: 200)
                 TextField("Enter caption", text: $caption, onCommit: {
-                    postState.addPost(feed: Feed(id: "841", name: "Puput", picture: "https://firebasestorage.googleapis.com/v0/b/self-care-app-b258e.appspot.com/o/articles%2FGlimmr-Fivyolen.jpg?alt=media&token=ee8a04bb-460c-4517-9a3f-e4f485bae69a", numOfLikes: 0, caption: caption, comments: [""]))
+                    let data = (self.image.jpegData(compressionQuality: 0.5))!
+                    let storage = Storage.storage()
+                    let storageRef = storage.reference()
+                    let imageRef = storageRef.child("images/sample1.jpg")
+                    
+                    // Upload the file to the path "images/sample.jpg"
+                    imageRef.putData(data, metadata: nil) { (metadata, error) in
+                      guard metadata != nil else {
+                        // Uh-oh, an error occurred!
+                        return
+                      }
+                      // Download URL after upload.
+                      imageRef.downloadURL { (url, error) in
+                        guard let downloadURL = url else {
+                          // Uh-oh, an error occurred!
+                          return
+                        }
+                        postState.addPost(feed: Feed(id: "841", name: "Puput", picture: "\(downloadURL)", numOfLikes: 0, caption: caption, comments: [""]))
+                      }
+                    }
+                    
                 })
             }
             Button(action: onClick) {

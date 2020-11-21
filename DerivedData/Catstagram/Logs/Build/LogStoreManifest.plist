@@ -6,6 +6,74 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>0713CC72-55AF-4C2F-B945-D45CA4CA9CA4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0713CC72-55AF-4C2F-B945-D45CA4CA9CA4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627641705.46156001</real>
+			<key>timeStoppedRecording</key>
+			<real>627641705.96944797</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>0713CC72-55AF-4C2F-B945-D45CA4CA9CA4</string>
+		</dict>
+		<key>08407269-7C68-404F-B542-123899AD3004</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>08407269-7C68-404F-B542-123899AD3004.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627641732.10149705</real>
+			<key>timeStoppedRecording</key>
+			<real>627641732.76184702</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>08407269-7C68-404F-B542-123899AD3004</string>
+		</dict>
 		<key>08F0B326-3F0D-41DD-8317-44F86896EF7A</key>
 		<dict>
 			<key>className</key>
@@ -39,6 +107,278 @@
 			<string>Build Catstagram</string>
 			<key>uniqueIdentifier</key>
 			<string>08F0B326-3F0D-41DD-8317-44F86896EF7A</string>
+		</dict>
+		<key>0EF3FFC7-E81A-44CE-B4ED-9E3E745ECD9B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0EF3FFC7-E81A-44CE-B4ED-9E3E745ECD9B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627641098.33513403</real>
+			<key>timeStoppedRecording</key>
+			<real>627641098.94602895</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>0EF3FFC7-E81A-44CE-B4ED-9E3E745ECD9B</string>
+		</dict>
+		<key>1A668FAA-F487-44E2-8901-6A7A490860A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1A668FAA-F487-44E2-8901-6A7A490860A2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627654852.63862801</real>
+			<key>timeStoppedRecording</key>
+			<real>627654852.96978199</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>1A668FAA-F487-44E2-8901-6A7A490860A2</string>
+		</dict>
+		<key>2A5913EE-28DC-406F-8F50-145F4F362815</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2A5913EE-28DC-406F-8F50-145F4F362815.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627641468.29937696</real>
+			<key>timeStoppedRecording</key>
+			<real>627641468.71898997</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>2A5913EE-28DC-406F-8F50-145F4F362815</string>
+		</dict>
+		<key>2BEF6A63-CA44-4465-A02D-98A5538CA565</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2BEF6A63-CA44-4465-A02D-98A5538CA565.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627653785.44235897</real>
+			<key>timeStoppedRecording</key>
+			<real>627653786.03860605</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>2BEF6A63-CA44-4465-A02D-98A5538CA565</string>
+		</dict>
+		<key>2E0125AE-9825-4FAE-A123-8C5277225D71</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2E0125AE-9825-4FAE-A123-8C5277225D71.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627654990.80160904</real>
+			<key>timeStoppedRecording</key>
+			<real>627654991.15193903</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>2E0125AE-9825-4FAE-A123-8C5277225D71</string>
+		</dict>
+		<key>3295C60A-D7E4-4C91-B290-1E275F4D9DF1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3295C60A-D7E4-4C91-B290-1E275F4D9DF1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627653520.82328296</real>
+			<key>timeStoppedRecording</key>
+			<real>627653521.41801405</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>3295C60A-D7E4-4C91-B290-1E275F4D9DF1</string>
+		</dict>
+		<key>3DF5400C-9506-4DEB-9E13-184AD643D3D2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3DF5400C-9506-4DEB-9E13-184AD643D3D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627641495.88394594</real>
+			<key>timeStoppedRecording</key>
+			<real>627641496.56539798</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>3DF5400C-9506-4DEB-9E13-184AD643D3D2</string>
+		</dict>
+		<key>4DBF9C6A-6A59-4C07-8EBA-EAEA016858DA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4DBF9C6A-6A59-4C07-8EBA-EAEA016858DA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627641521.58118105</real>
+			<key>timeStoppedRecording</key>
+			<real>627641522.84535301</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>4DBF9C6A-6A59-4C07-8EBA-EAEA016858DA</string>
 		</dict>
 		<key>4E9DF9BA-BA01-4F6C-8B80-26986FB04F46</key>
 		<dict>
@@ -74,6 +414,74 @@
 			<key>uniqueIdentifier</key>
 			<string>4E9DF9BA-BA01-4F6C-8B80-26986FB04F46</string>
 		</dict>
+		<key>4FA6950A-1D80-4537-8AD4-87ABBC174CDE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4FA6950A-1D80-4537-8AD4-87ABBC174CDE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627655004.37014794</real>
+			<key>timeStoppedRecording</key>
+			<real>627655005.79543996</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>4FA6950A-1D80-4537-8AD4-87ABBC174CDE</string>
+		</dict>
+		<key>611DB383-C88B-40A0-AD30-313B971C4912</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>611DB383-C88B-40A0-AD30-313B971C4912.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627654666.06644499</real>
+			<key>timeStoppedRecording</key>
+			<real>627654666.50814605</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>611DB383-C88B-40A0-AD30-313B971C4912</string>
+		</dict>
 		<key>708C0823-A969-452C-93CD-3C57609CFC8D</key>
 		<dict>
 			<key>className</key>
@@ -107,6 +515,618 @@
 			<string>Build Catstagram</string>
 			<key>uniqueIdentifier</key>
 			<string>708C0823-A969-452C-93CD-3C57609CFC8D</string>
+		</dict>
+		<key>716A793A-CE24-4D30-AD83-B22DEFCEFCA4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>716A793A-CE24-4D30-AD83-B22DEFCEFCA4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627653810.86666501</real>
+			<key>timeStoppedRecording</key>
+			<real>627653812.19700098</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>716A793A-CE24-4D30-AD83-B22DEFCEFCA4</string>
+		</dict>
+		<key>7925897D-514A-467C-A2CA-186DDA687FAA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7925897D-514A-467C-A2CA-186DDA687FAA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627653382.42598605</real>
+			<key>timeStoppedRecording</key>
+			<real>627653384.24428594</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>7925897D-514A-467C-A2CA-186DDA687FAA</string>
+		</dict>
+		<key>7B2FB1CC-A360-4DD2-9F98-1079432FEBB5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7B2FB1CC-A360-4DD2-9F98-1079432FEBB5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627641510.36216998</real>
+			<key>timeStoppedRecording</key>
+			<real>627641511.07244396</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>7B2FB1CC-A360-4DD2-9F98-1079432FEBB5</string>
+		</dict>
+		<key>829785FD-B2F6-44A4-B484-FD8983E68C67</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>829785FD-B2F6-44A4-B484-FD8983E68C67.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627642143.70181894</real>
+			<key>timeStoppedRecording</key>
+			<real>627642144.42269301</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>829785FD-B2F6-44A4-B484-FD8983E68C67</string>
+		</dict>
+		<key>852D2D21-0731-4003-B959-65DD2825E82E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>852D2D21-0731-4003-B959-65DD2825E82E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627641796.54060102</real>
+			<key>timeStoppedRecording</key>
+			<real>627641797.82886398</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>852D2D21-0731-4003-B959-65DD2825E82E</string>
+		</dict>
+		<key>952A1908-875C-45E4-B1DC-A4DF0991FBD2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>952A1908-875C-45E4-B1DC-A4DF0991FBD2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627655153.45495296</real>
+			<key>timeStoppedRecording</key>
+			<real>627655155.45204604</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>952A1908-875C-45E4-B1DC-A4DF0991FBD2</string>
+		</dict>
+		<key>9DD3FF23-9395-40B8-AAA9-E117FEE1CD54</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9DD3FF23-9395-40B8-AAA9-E117FEE1CD54.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627641147.12403297</real>
+			<key>timeStoppedRecording</key>
+			<real>627641148.54727304</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>9DD3FF23-9395-40B8-AAA9-E117FEE1CD54</string>
+		</dict>
+		<key>A6C611CA-CBF9-4837-82EF-9FFAE474A0AC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A6C611CA-CBF9-4837-82EF-9FFAE474A0AC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627642186.63093698</real>
+			<key>timeStoppedRecording</key>
+			<real>627642187.22631705</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>A6C611CA-CBF9-4837-82EF-9FFAE474A0AC</string>
+		</dict>
+		<key>AC722765-8B18-4F84-B241-CE96400EFB52</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AC722765-8B18-4F84-B241-CE96400EFB52.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627641819.13799596</real>
+			<key>timeStoppedRecording</key>
+			<real>627641819.30738699</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>AC722765-8B18-4F84-B241-CE96400EFB52</string>
+		</dict>
+		<key>B2DFF9BB-B992-44E0-98B6-425DF09A7E1E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B2DFF9BB-B992-44E0-98B6-425DF09A7E1E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627642199.58509004</real>
+			<key>timeStoppedRecording</key>
+			<real>627642201.32288599</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>B2DFF9BB-B992-44E0-98B6-425DF09A7E1E</string>
+		</dict>
+		<key>BFAB3251-FAB9-4610-B84A-1BEEB6B5EC83</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BFAB3251-FAB9-4610-B84A-1BEEB6B5EC83.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627653177.8743</real>
+			<key>timeStoppedRecording</key>
+			<real>627653180.49408102</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>BFAB3251-FAB9-4610-B84A-1BEEB6B5EC83</string>
+		</dict>
+		<key>C043442E-8AD3-4518-BA1A-36389E46FFC2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C043442E-8AD3-4518-BA1A-36389E46FFC2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627642323.26764202</real>
+			<key>timeStoppedRecording</key>
+			<real>627642323.57759905</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>C043442E-8AD3-4518-BA1A-36389E46FFC2</string>
+		</dict>
+		<key>E6A5B54C-733F-441D-8C58-38F15A4AE138</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E6A5B54C-733F-441D-8C58-38F15A4AE138.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627641103.88359702</real>
+			<key>timeStoppedRecording</key>
+			<real>627641104.55367005</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>E6A5B54C-733F-441D-8C58-38F15A4AE138</string>
+		</dict>
+		<key>E7220F6A-D28E-4961-A1A1-E745DF137EE8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E7220F6A-D28E-4961-A1A1-E745DF137EE8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627641787.38605297</real>
+			<key>timeStoppedRecording</key>
+			<real>627641788.04079795</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>E7220F6A-D28E-4961-A1A1-E745DF137EE8</string>
+		</dict>
+		<key>E9E2B82F-76D3-4AD3-9639-D79D2052FB7E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E9E2B82F-76D3-4AD3-9639-D79D2052FB7E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627653396.18457603</real>
+			<key>timeStoppedRecording</key>
+			<real>627653396.345626</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>E9E2B82F-76D3-4AD3-9639-D79D2052FB7E</string>
+		</dict>
+		<key>EB179413-4BB5-43CC-9DFA-E2B7BA39C2BA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB179413-4BB5-43CC-9DFA-E2B7BA39C2BA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627641674.38626099</real>
+			<key>timeStoppedRecording</key>
+			<real>627641676.41625798</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>EB179413-4BB5-43CC-9DFA-E2B7BA39C2BA</string>
+		</dict>
+		<key>EBBBCC32-9F19-4114-A5B1-34D1C5BB8A59</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EBBBCC32-9F19-4114-A5B1-34D1C5BB8A59.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627641892.81973398</real>
+			<key>timeStoppedRecording</key>
+			<real>627641893.18244696</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>EBBBCC32-9F19-4114-A5B1-34D1C5BB8A59</string>
+		</dict>
+		<key>EEDE81CE-1BB4-42C1-81DE-7BB698C56A2D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EEDE81CE-1BB4-42C1-81DE-7BB698C56A2D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627641642.28621197</real>
+			<key>timeStoppedRecording</key>
+			<real>627641642.98784697</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>EEDE81CE-1BB4-42C1-81DE-7BB698C56A2D</string>
 		</dict>
 	</dict>
 </dict>
