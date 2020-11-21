@@ -47,6 +47,7 @@ struct EditPostView: View {
                     
                 })
             }
+            .padding()
             Button(action: onClick) {
                 Text("Submit")
                 
