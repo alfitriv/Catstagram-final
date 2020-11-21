@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>162525631268-tao3d36n01a9i6e9duovbvhiic0paavi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.162525631268-tao3d36n01a9i6e9duovbvhiic0paavi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBsnNBtZMc7i5RYZEAut1gIzAaMVXKdWLc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>162525631268</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mila.Catstagram</string>
+	<key>PROJECT_ID</key>
+	<string>catstagram-app-c9246</string>
+	<key>STORAGE_BUCKET</key>
+	<string>catstagram-app-c9246.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:162525631268:ios:5e0b0770d9697c737099b1</string>
+	<key>DATABASE_URL</key>
+	<string>https://catstagram-app-c9246.firebaseio.com</string>
+</dict>
+</plist>
