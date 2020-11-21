@@ -27,7 +27,7 @@ struct EditPostView: View {
                     let data = (self.image.jpegData(compressionQuality: 0.5))!
                     let storage = Storage.storage()
                     let storageRef = storage.reference()
-                    let imageRef = storageRef.child("images/sample1.jpg")
+                    let imageRef = storageRef.child("images/\(UUID().uuidString).jpg")
                     
                     // Upload the file to the path "images/sample.jpg"
                     imageRef.putData(data, metadata: nil) { (metadata, error) in
@@ -41,7 +41,7 @@ struct EditPostView: View {
                           // Uh-oh, an error occurred!
                           return
                         }
-                        postState.addPost(feed: Feed(id: "841", name: "Puput", picture: "\(downloadURL)", numOfLikes: 0, caption: caption, comments: [""]))
+                        postState.addPost(feed: Feed(id: "\(UUID().uuidString)", name: "Puput", picture: "\(downloadURL)", numOfLikes: 0, caption: caption, comments: [""]))
                       }
                     }
                     

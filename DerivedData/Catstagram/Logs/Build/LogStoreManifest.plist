@@ -40,6 +40,40 @@
 			<key>uniqueIdentifier</key>
 			<string>0713CC72-55AF-4C2F-B945-D45CA4CA9CA4</string>
 		</dict>
+		<key>07486F99-7B97-4749-B9FD-4F25BAF59673</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>07486F99-7B97-4749-B9FD-4F25BAF59673.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catstagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catstagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catstagram</string>
+			<key>timeStartedRecording</key>
+			<real>627657051.75926995</real>
+			<key>timeStoppedRecording</key>
+			<real>627657053.53243303</real>
+			<key>title</key>
+			<string>Build Catstagram</string>
+			<key>uniqueIdentifier</key>
+			<string>07486F99-7B97-4749-B9FD-4F25BAF59673</string>
+		</dict>
 		<key>08407269-7C68-404F-B542-123899AD3004</key>
 		<dict>
 			<key>className</key>
