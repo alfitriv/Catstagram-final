@@ -1,16 +1,31 @@
 //
 //  ContentView.swift
-//  Catstagram
+//  InstagramLikeApp
 //
-//  Created by Vania Radmila Alfitri on 21/11/20.
+//  Created by Vania Radmila Alfitri on 01/11/20.
 //
 
 import SwiftUI
 
 struct ContentView: View {
+    @ObservedObject var postState = PostState()
+    @State var showNewPost = false
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        TabView() {
+            NavigationView {
+                FeedList(feedArray: postState.injectedFeed)
+                    .navigationBarTitle("Catstagram", displayMode: .inline)
+            }
+            .tabItem {
+                Image(systemName: "plus")
+            }
+        }
+        .onTapGesture {
+            self.showNewPost.toggle()
+        }
+        .fullScreenCover(isPresented: $showNewPost) {
+            NewPostView(postState: postState)
+        }
     }
 }
 
