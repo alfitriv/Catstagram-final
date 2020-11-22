@@ -29,16 +29,13 @@ struct EditPostView: View {
                     let storageRef = storage.reference()
                     let imageRef = storageRef.child("images/\(UUID().uuidString).jpg")
                     
-                    // Upload the file to the path "images/sample.jpg"
                     imageRef.putData(data, metadata: nil) { (metadata, error) in
                       guard metadata != nil else {
-                        // Uh-oh, an error occurred!
                         return
                       }
-                      // Download URL after upload.
+                      
                       imageRef.downloadURL { (url, error) in
                         guard let downloadURL = url else {
-                          // Uh-oh, an error occurred!
                           return
                         }
                         postState.addPost(feed: Feed(id: "\(UUID().uuidString)", name: "Puput", picture: "\(downloadURL)", numOfLikes: 0, caption: caption, comments: [""]))
@@ -49,16 +46,17 @@ struct EditPostView: View {
             }
             .padding()
             Button(action: onClick) {
-                Text("Submit")
-                
+                HStack {
+                    Text("Submit")
+                        .font(.headline)
+                }
+                .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: 50)
+                .background(Color.blue)
+                .foregroundColor(.white)
+                .cornerRadius(20)
+                .padding(.horizontal)
             }
 
         }
     }
 }
-
-//struct EditPostView_Previews: PreviewProvider {
-//    static var previews: some View {
-//        EditPostView(image: UIImage(named: "")!, postState: PostState(), onClick: OnClickHandle)
-//    }
-//}

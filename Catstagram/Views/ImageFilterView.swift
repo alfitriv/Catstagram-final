@@ -18,47 +18,48 @@ struct ImageFilterView: View {
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
     
     var body: some View {
-        NavigationView {
-            VStack {
-                Image(uiImage: self.selectedFilteredImage)
-                    .resizable()
-                    .scaledToFit()
-                ScrollView(.horizontal, showsIndicators: false) {
-                    HStack {
-                        ForEach(self.filteredImageState.filteredImages, id: \.cgImage) { image in
-                            Button(action: {
-                                self.selectedFilteredImage = image
-                            }) {
-                                Image(uiImage: image)
-                                    .resizable()
-                                    .scaledToFit()
-                                    .frame(width: 100, height: 100)
-                            }
+        VStack {
+            Image(uiImage: self.selectedFilteredImage)
+                .resizable()
+                .scaledToFit()
+            ScrollView(.horizontal, showsIndicators: false) {
+                HStack {
+                    ForEach(self.filteredImageState.filteredImages, id: \.cgImage) { image in
+                        Button(action: {
+                            self.selectedFilteredImage = image
+                        }) {
+                            Image(uiImage: image)
+                                .resizable()
+                                .scaledToFit()
+                                .frame(width: 100, height: 100)
                         }
                     }
                 }
-                Button(action: {
-                    //imageFilterState.filterImage(image: self.image)
-                    self.isShowEditView = true
-                }, label: {
+            }
+            Button(action: {
+                self.isShowEditView = true
+            }) {
+                HStack {
+                    Image(systemName: "arrow.right.circle")
+                        .font(.system(size: 20))
                     Text("Next")
-                })
-                NavigationLink(
-                    destination: EditPostView(image: self.selectedFilteredImage, postState: postState, onClick: $onClick),
-                    isActive: $isShowEditView,
-                    label: {
+                        .font(.headline)
+                }
+                .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: 50)
+                .background(Color.blue)
+                .foregroundColor(.white)
+                .cornerRadius(20)
+                .padding(.horizontal)
+            }
+            NavigationLink(
+                destination: EditPostView(image: self.selectedFilteredImage, postState: postState, onClick: $onClick),
+                isActive: $isShowEditView,
+                label: {
 
-                    })
-            }
-            .onAppear {
-                filteredImageState.filterImage(image: image)
-            }
+                })
+        }
+        .onAppear {
+            filteredImageState.filterImage(image: image)
         }
     }
 }
-
-//struct ImageFilterView_Previews: PreviewProvider {
-//    static var previews: some View {
-//        ImageFilterView(image: UIImage(named: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo4BQSpilYy5KuAptMxbOAxm4uKjFYDG6_wg&usqp=CAU")!, filteredImages: [], filteredImageState: FilteredImageState())
-//    }
-//}

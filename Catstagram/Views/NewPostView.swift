@@ -14,10 +14,10 @@ struct NewPostView: View {
     @State private var isShowEditView = false
     @State private var isShowFilterView = false
     @State private var image = UIImage()
+    @State var onClick: OnClickHandler = { }
     @ObservedObject var postState: PostState
     @ObservedObject var imageFilterState = FilteredImageState()
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
-    @State var onClick: OnClickHandler = { }
     
     var body: some View {
         NavigationView {
@@ -62,7 +62,6 @@ struct NewPostView: View {
         }
         .onAppear {
             self.onClick = {
-//                postState.addPost(feed: Feed(id: "789", name: "Puput", picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo4BQSpilYy5KuAptMxbOAxm4uKjFYDG6_wg&usqp=CAU", numOfLikes: 0, caption: "", comments: [""]))
                 self.presentationMode.wrappedValue.dismiss()
             }
         }

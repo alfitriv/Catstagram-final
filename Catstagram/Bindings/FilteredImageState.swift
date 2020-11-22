@@ -23,7 +23,6 @@ class FilteredImageState: ObservableObject {
     ]
     
     func filterImage(image: UIImage) {
-        
         for filterName in CIFilterNames {
             let ciContext = CIContext(options: nil)
             let coreImage = CIImage(image: image)
