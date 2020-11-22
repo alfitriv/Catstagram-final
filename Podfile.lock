@@ -29,6 +29,7 @@ PODS:
     - PromisesObjC (~> 1.2)
   - GoogleUtilities/Logger (6.6.0):
     - GoogleUtilities/Environment
+  - GPUImage (0.1.7)
   - GTMSessionFetcher/Core (1.4.0)
   - nanopb (1.30905.0):
     - nanopb/decode (= 1.30905.0)
@@ -39,6 +40,7 @@ PODS:
 
 DEPENDENCIES:
   - Firebase/Storage
+  - GPUImage
 
 SPEC REPOS:
   trunk:
@@ -51,6 +53,7 @@ SPEC REPOS:
     - GoogleDataTransport
     - GoogleDataTransportCCTSupport
     - GoogleUtilities
+    - GPUImage
     - GTMSessionFetcher
     - nanopb
     - PromisesObjC
@@ -65,10 +68,11 @@ SPEC CHECKSUMS:
   GoogleDataTransport: 9a8a16f79feffc7f42096743de2a7c4815e84020
   GoogleDataTransportCCTSupport: d70a561f7d236af529fee598835caad5e25f6d3d
   GoogleUtilities: 39530bc0ad980530298e9c4af8549e991fd033b1
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
   GTMSessionFetcher: 6f5c8abbab8a9bce4bb3f057e317728ec6182b10
   nanopb: c43f40fadfe79e8b8db116583945847910cbabc9
   PromisesObjC: b48e0338dbbac2207e611750777895f7a5811b75
 
-PODFILE CHECKSUM: 7688e9d72ff242accfccdd3b625ba68d1fe96e49
+PODFILE CHECKSUM: b5dab29c44b00bba2cc28e0057d06f60f999fe11
 
 COCOAPODS: 1.9.3

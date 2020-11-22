@@ -12,8 +12,10 @@ typealias OnClickHandler = (() -> Void)
 struct NewPostView: View {
     @State private var isShowPhotoLibrary = false
     @State private var isShowEditView = false
+    @State private var isShowFilterView = false
     @State private var image = UIImage()
     @ObservedObject var postState: PostState
+    @ObservedObject var imageFilterState = FilteredImageState()
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
     @State var onClick: OnClickHandler = { }
     
@@ -43,15 +45,14 @@ struct NewPostView: View {
                     .padding(.horizontal)
                 }
                 NavigationLink(
-                    destination: EditPostView(image: self.image, postState: postState, onClick: $onClick),
-                    isActive: $isShowEditView,
+                    destination: ImageFilterView(image: self.image, filteredImageState: imageFilterState, postState: self.postState, selectedFilteredImage: self.image, onClick: $onClick),
+                    isActive: $isShowFilterView,
                     label: {
-                
                     })
             }
             .navigationBarTitle("New post")
             .navigationBarItems(trailing: Button(action: {
-                self.isShowEditView = true
+                self.isShowFilterView = true
             }, label: {
                 Text("Next")
             }))
