@@ -1,5 +1,5 @@
 # Catstagram-final
-This is the finished version of the Catstagram app
+This is the finished version of the Catstagram app in SwiftUI
 
 # Prerequisite
 * Xcode 11
